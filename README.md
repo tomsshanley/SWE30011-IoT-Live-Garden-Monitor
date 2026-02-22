@@ -1,4 +1,4 @@
-# 🌱 IoT Live Garden Monitor
+# IoT Live Garden Monitor
 
 Real-time plant monitoring system built for **SWE30011 – IoT Programming** at Swinburne University of Technology.
 
